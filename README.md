@@ -1,8 +1,11 @@
 # hashA0A0A0tick claws-mail icon theme
 
-I created this theme because I can not see well the little dots on folders with marked mails.
+I created this theme because I can not see well the little red dot on folders with marked mails on hashA0A0A0.
+This theme has big yellow ticks on folders with marked mails.
 
 # LICENSE
+
+(CC-BY-NC-SA)[https://creativecommons.org/licenses/by-nc-sa/3.0/]
 
 This theme is a modification of hashA0A0A0 (CC-BY-NC-SA), which is a modification of hash303030 by Simon SteinbeiÃŸ.
 
