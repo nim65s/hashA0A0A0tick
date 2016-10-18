@@ -18,3 +18,4 @@ I simple convert it with a this bash oneliner:
 
 `for i in *.png; do convert $i -gamma 3.6 .tmp.png; cp .tmp.png $i; rm .tmp.png; done`
 
+[found here](http://www.claws-mail.org/themes/png/hashA0A0A0/README)
