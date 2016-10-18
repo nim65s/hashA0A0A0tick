@@ -7,7 +7,7 @@ This theme has big yellow ticks on folders with marked mails.
 
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-This theme is a modification of hashA0A0A0 (CC-BY-NC-SA), which is a modification of hash303030 by Simon SteinbeiÃŸ.
+This theme is a modification of hashA0A0A0 (CC-BY-NC-SA), which is a modification of hash303030 by Simon Steinbeiß.
 
 # Original (hashA0A0A0) readme:
 
